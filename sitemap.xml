@@ -5,44 +5,79 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/</loc>
-<lastmod>2016-07-23T16:02:20-00:00</lastmod>
+<lastmod>2016-07-23T16:28:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/archives.html</loc>
-<lastmod>2016-07-23T16:02:20-00:00</lastmod>
+<lastmod>2016-07-23T16:28:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/tags.html</loc>
-<lastmod>2016-07-23T16:02:20-00:00</lastmod>
+<lastmod>2016-07-23T16:28:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/categories.html</loc>
-<lastmod>2016-07-23T16:02:20-00:00</lastmod>
+<lastmod>2016-07-23T16:28:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>http://wuyan1222.github.io/articles/hello.html</loc>
+<loc>http://wuyan1222.github.io/articles/hello-my-blog.html</loc>
+<lastmod>2016-07-23T16:06:00+08:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/articles/hello world.html</loc>
 <lastmod>2016-07-23T15:06:00+08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://wuyan1222.github.io/articles/li-yong-github-pagesda-jian-liao-zi-ji-de-ji-zhu-bo-ke.html</loc>
-<lastmod>2016-07-23T00:00:00+08:00</lastmod>
+<loc>http://wuyan1222.github.io/category/thoughts/</loc>
+<lastmod>2016-07-23T16:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
-<priority>1</priority>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/pelican/</loc>
+<lastmod>2016-07-23T16:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/github-pages/</loc>
+<lastmod>2016-07-23T16:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/markdown/</loc>
+<lastmod>2016-07-23T15:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/author/yan/</loc>
+<lastmod>2016-07-23T16:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
 </url>
 
 </urlset>
