@@ -3,6 +3,5 @@
 &lt;blockquote&gt;
 &lt;p&gt;SSH = Struts + Spring + Hibenate&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="SSHoverview" src="../images/SSHoverview.gif" /&gt;
-&lt;img alt="SSHOverview" src="http://i.imgur.com/CZmiRLk.gif" /&gt;
-Struts对MVC框架进行了很好的封装，提高运用MVC设计模型开发Web应用的效率。&lt;/p&gt;</summary><category term="SSH"></category><category term="Struts"></category><category term="MVC"></category></entry></feed>
+&lt;p&gt;&lt;img alt="SSHoverview" src="images/SSHoverview.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;Struts对MVC框架进行了很好的封装，提高运用MVC设计模型开发Web应用的效率。&lt;/p&gt;</summary><category term="SSH"></category><category term="Struts"></category><category term="MVC"></category></entry></feed>
