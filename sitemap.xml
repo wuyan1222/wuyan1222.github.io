@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/</loc>
-<lastmod>2016-08-03T16:08:04-00:00</lastmod>
+<lastmod>2016-08-03T16:09:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/archives.html</loc>
-<lastmod>2016-08-03T16:08:04-00:00</lastmod>
+<lastmod>2016-08-03T16:09:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/tags.html</loc>
-<lastmod>2016-08-03T16:08:04-00:00</lastmod>
+<lastmod>2016-08-03T16:09:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/categories.html</loc>
-<lastmod>2016-08-03T16:08:04-00:00</lastmod>
+<lastmod>2016-08-03T16:09:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/articles/SSH-Struts.html</loc>
+<lastmod>2016-07-27T14:06:00+08:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
@@ -46,6 +53,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://wuyan1222.github.io/category/java/</loc>
+<lastmod>2016-07-27T14:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
 <loc>http://wuyan1222.github.io/category/thoughts/</loc>
 <lastmod>2016-07-23T16:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -60,13 +74,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://wuyan1222.github.io/tag/github-pages/</loc>
-<lastmod>2016-07-23T16:06:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8</priority>
-</url>
-
-<url>
 <loc>http://wuyan1222.github.io/tag/markdown/</loc>
 <lastmod>2016-07-23T15:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -74,8 +81,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://wuyan1222.github.io/author/yan/</loc>
+<loc>http://wuyan1222.github.io/tag/struts/</loc>
+<lastmod>2016-07-27T14:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/github-pages/</loc>
 <lastmod>2016-07-23T16:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/mvc/</loc>
+<lastmod>2016-07-27T14:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/ssh/</loc>
+<lastmod>2016-07-27T14:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/author/yan/</loc>
+<lastmod>2016-07-27T14:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
