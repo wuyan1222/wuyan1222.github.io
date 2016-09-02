@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/</loc>
-<lastmod>2016-08-31T16:22:58-00:00</lastmod>
+<lastmod>2016-09-02T12:30:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/archives.html</loc>
-<lastmod>2016-08-31T16:22:58-00:00</lastmod>
+<lastmod>2016-09-02T12:30:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/tags.html</loc>
-<lastmod>2016-08-31T16:22:58-00:00</lastmod>
+<lastmod>2016-09-02T12:30:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/categories.html</loc>
-<lastmod>2016-08-31T16:22:58-00:00</lastmod>
+<lastmod>2016-09-02T12:30:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/articles/IBM-Intern-Interview.html</loc>
+<lastmod>2016-09-02T12:06:00+08:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
@@ -61,7 +68,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/category/interview/</loc>
-<lastmod>2016-08-31T16:06:00+08:06</lastmod>
+<lastmod>2016-09-02T12:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
@@ -96,7 +103,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/tag/java/</loc>
-<lastmod>2016-08-31T16:06:00+08:06</lastmod>
+<lastmod>2016-09-02T12:06:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://wuyan1222.github.io/tag/ibm/</loc>
+<lastmod>2016-09-02T12:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
@@ -131,14 +145,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://wuyan1222.github.io/tag/interview/</loc>
-<lastmod>2016-08-31T16:06:00+08:06</lastmod>
+<lastmod>2016-09-02T12:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>http://wuyan1222.github.io/author/yan/</loc>
-<lastmod>2016-08-31T16:06:00+08:06</lastmod>
+<lastmod>2016-09-02T12:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
